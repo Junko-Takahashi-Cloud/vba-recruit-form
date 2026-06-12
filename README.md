@@ -2,7 +2,7 @@
 
 Excel VBA で作成した採用管理フォームです。
 
-##スクリーンショット
+## スクリーンショット
 <img width="1130" height="599" alt="image" src="https://github.com/user-attachments/assets/eacb6792-4e51-4297-b94a-010fb8c90c4e" />
 
 ## 主な機能
