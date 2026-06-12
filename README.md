@@ -3,6 +3,8 @@
 Excel VBA で作成した採用管理フォームです。
 
 ## スクリーンショット
+応募者入力フォームと、日付選択用のカレンダー画面です。
+
 <img width="1130" height="599" alt="image" src="https://github.com/user-attachments/assets/eacb6792-4e51-4297-b94a-010fb8c90c4e" />
 
 ## 主な機能
